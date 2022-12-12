@@ -92,7 +92,7 @@
 		44C962072945939500B7C980 = {
 			isa = PBXGroup;
 			children = (
-				44C962122945939500B7C980 /* Grey Movie Trailers */,
+				44C962122945939500B7C980 /* Grey Stream */,
 				44C962112945939500B7C980 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -105,7 +105,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		44C962122945939500B7C980 /* Grey Movie Trailers */ = {
+		44C962122945939500B7C980 /* Grey Stream */ = {
 			isa = PBXGroup;
 			children = (
 				44C962302945BE4600B7C980 /* Views */,
@@ -120,7 +120,7 @@
 				44C9621E2945939600B7C980 /* LaunchScreen.storyboard */,
 				44C962212945939600B7C980 /* Info.plist */,
 			);
-			path = "Grey Movie Trailers";
+			path = "Grey Stream";
 			sourceTree = "<group>";
 		};
 		44C9622729459A2900B7C980 /* Controllers */ = {
