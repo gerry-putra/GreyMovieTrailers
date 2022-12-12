@@ -96,7 +96,7 @@ extension UpcomingViewController: UITableViewDelegate, UITableViewDataSource {
                 }
                 
             case .failure(let error):
-                print(error.localizedDescription)
+                print(error)
             }
         }
     }

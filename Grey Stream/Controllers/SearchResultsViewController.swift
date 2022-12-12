@@ -72,7 +72,7 @@ extension SearchResultsViewController: UICollectionViewDelegate, UICollectionVie
                 self?.delegate?.searchResultsViewControllerDidTapItem(TitlePreviewViewModel(title: title.original_title ?? "", youtubeView: videoElement, titleOverview: title.overview ?? ""))
                 
             case .failure(let error):
-                print(error.localizedDescription)
+                print(error)
             }
         }
     }
